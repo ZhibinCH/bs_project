@@ -78,6 +78,7 @@ The project generates CSV files containing:
 ## Folder Structure
 ```
 bs_project/
+│-- evaluator.py 
 │-- outputs/
 │   ├── evaluated_reddit_20250330.csv
 │   ├── evaluated_tweets_20250330.csv
@@ -92,6 +93,7 @@ bs_project/
 │-- requirements.txt
 │-- utils.py
 ```
+- `evaluator.py`: Post evaluation used for x and reddit contents.
 - `outputs/`: Stores raw and evaluated CSV files.
 - `twitter/`: Contains scripts for X authentication and scraping.
 - `main.py`: Main entry point to run scraping and evaluation.
