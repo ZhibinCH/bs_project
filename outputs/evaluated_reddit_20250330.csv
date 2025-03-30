@@ -1,0 +1,643 @@
+id,title,content,author,subreddit,upvotes,downvotes,score,upvote_ratio,num_comments,created_utc,url,is_self,word_count,is_media,flair,stickied,over_18,spoiler,locked,distinguished,created_date,relevance_score,risk_level,reliability_score,sentiment,credibility,categories,evaluation_raw,evaluated_at
+1jmjgvs,WARNING: Airdrops I Earned Went to Binance’s Vault Instead of My Wallet — Be Careful How You Fund Your Solana Wallet,"Just discovered something seriously messed up — I made a purchase through my Solflare wallet, using USDT, expecting to receive airdrops for the Seeker mobile. 
+
+Turns out, instead of sending the rewards to the wallet that actually made the purchase (mine), the Solana platform decided to trace the origin of the funds — and sent the airdrops to my Binance deposit address, just because that’s where I originally funded my wallet from.
+
+So now the airdrops are sitting in Binance’s inaccessible vault, and I have no way of getting them back. Binance doesn’t show them. I can’t move them. And the wallet that actually made the transaction got nothing.
+
+TL;DR:
+	•	Don’t fund your wallet right before a drop using Binance or another exchange.
+	•	Solana platforms may trace the origin of the SOL and misdirect rewards.
+	•	You could miss out entirely — even if you were the one who interacted with the app and spent the money.",Existing_Existed,solana,12,0,12,0.77,29,1743244531.0,https://www.reddit.com/r/solana/comments/1jmjgvs/warning_airdrops_i_earned_went_to_binances_vault/,True,159,False,SolanaMobile,False,False,False,False,,2025-03-29 10:35:31,8,Medium,9,Negative,8,"Solana, cryptocurrency, airdrops, wallet security, exchange issues, community alerts.","Evaluation:
+
+Relevance: 8
+The post discusses an issue related to the Solana platform, specifically with airdrops and transaction tracing. This is relevant to our platform/community as it discusses a real-world problem that users may encounter.
+
+Risk: Medium
+The post does not contain any obvious scams or misinformation. However, it highlights a potential issue with the Solana platform's transaction tracing feature, which may raise concerns about security and fairness. The post does not promote any malicious activities.
+
+Reliability: 9
+The post appears to be a genuine account sharing their personal experience with the Solana platform. There are no external links, biased sources, or apparent manipulation of information. The account's content seems informative and conversational.
+
+Sentiment: Negative
+The post expresses frustration, disappointment, and concern about the issue with airdrops being misdirected. The tone is cautionary and warning, aiming to alert others about potential pitfalls.
+
+Credibility: 8
+The account appears to be a legitimate user sharing their experience. The post lacks external evidence or sources, but the content is coherent and appears to be based on first-hand knowledge. The credibility score could be higher if more details or context were provided.
+
+Categories: Solana, cryptocurrency, airdrops, wallet security, exchange issues, community alerts.",2025-03-30 10:22:33
+1jmjgvs,WARNING: Airdrops I Earned Went to Binance’s Vault Instead of My Wallet — Be Careful How You Fund Your Solana Wallet,"Just discovered something seriously messed up — I made a purchase through my Solflare wallet, using USDT, expecting to receive airdrops for the Seeker mobile. 
+
+Turns out, instead of sending the rewards to the wallet that actually made the purchase (mine), the Solana platform decided to trace the origin of the funds — and sent the airdrops to my Binance deposit address, just because that’s where I originally funded my wallet from.
+
+So now the airdrops are sitting in Binance’s inaccessible vault, and I have no way of getting them back. Binance doesn’t show them. I can’t move them. And the wallet that actually made the transaction got nothing.
+
+TL;DR:
+	•	Don’t fund your wallet right before a drop using Binance or another exchange.
+	•	Solana platforms may trace the origin of the SOL and misdirect rewards.
+	•	You could miss out entirely — even if you were the one who interacted with the app and spent the money.",Existing_Existed,solana,14,0,14,0.78,29,1743244531.0,https://www.reddit.com/r/solana/comments/1jmjgvs/warning_airdrops_i_earned_went_to_binances_vault/,True,159,False,SolanaMobile,False,False,False,False,,2025-03-29 10:35:31,9,Low,8,Negative,7,"Solana, Cryptocurrency, Blockchain, Investment, Mobile Gaming","Relevance: 9
+Risk: Low
+Reliability: 8
+Sentiment: Negative
+Credibility: 7
+
+Categories: Solana, Cryptocurrency, Blockchain, Investment, Mobile Gaming
+
+Evaluation:
+
+1. Relevance score: This post is highly relevant to our platform/community because it discusses a specific issue related to Solana, a popular blockchain and cryptocurrency. The post mentions the Seeker mobile game, which is likely to interest users who are familiar with Solana and its ecosystem.
+
+2. Risk level: The post does not contain any risky content, such as scams or misinformation. It appears to be a genuine account of an issue with the Solana platform and does not attempt to sell or promote any products or services.
+
+3. Reliability score: The reliability of the post is relatively high because it does not contain any verified sources or citations. However, it mentions that the wallet in question originally funded the account from Binance, which may be a legitimate reason for the issue. Without further information or verification, it's difficult to assess the reliability of this post.
+
+4. Sentiment: The overall sentiment of this post is negative because it describes a frustrating experience with the Solana platform and mentions that the user could have missed out on rewards if they had funded their wallet differently.
+
+5. Credibility: The credibility of the source/content is moderate because it's an account sharing its personal experience with the Solana platform. While this account may be relatable and trustworthy to some, others may view it as anecdotal evidence rather than a verified source.
+
+6. Category tags: The post belongs to the following categories:
+   - Solana
+   - Cryptocurrency
+   - Blockchain
+   - Investment
+   - Mobile Gaming",2025-03-30 10:22:46
+1jmghap,Welcome to /r/Solana - Read This To Get Started,"# "" Hello World ""
+
+# Welcome To r/solana - Please Read This To Get Started
+
+
+
+❗️ **Disclaimer** ❗️
+
+\- This subreddit is used for informational purposes only.
+
+\- Applicable laws vary by jurisdiction and may limit or prohibit you from accessing or using various platforms or products discussed in this subreddit.
+
+\- Discussion of any project or product ≠ endorsement.
+
+
+
+⚠️ **Solana Subreddit RULES** ⚠️
+
+The Solana Subreddit Does Not Tolerate🪓The Below Mentioned Behavior:
+
+\- Spam
+
+\- Baseless Claims
+
+\- Misleading Distortion Of Facts Or News
+
+\- Duplicate Posting
+
+\- Targeted Harassment
+
+\- Personal Attacks
+
+\- Swearing
+
+\- Slander
+
+
+
+💡 **What Is Solana?**
+
+Solana is a fast, secure and censorship-resistant blockchain providing the open infrastructure required for global adoption.
+
+Say goodbye to high fees and slow confirmations.
+
+Solana is built for speed, without trade-offs.
+
+
+
+🤓☝️**The Basics On All Things Solana And Web3:**
+
+[https://solana.com/learn/blockchain-basics](https://solana.com/learn/blockchain-basics)
+
+🤔**How Solana Works - An Executive Overview Of The Solana Protocol:**
+
+[https://www.helius.dev/blog/solana-executive-overview](https://www.helius.dev/blog/solana-executive-overview)
+
+
+
+💥 **Solana Foundation:**
+
+The Solana Foundation Is A Non-profit Foundation Based In Zug, Switzerland, Dedicated To The Decentralization, Adoption, And Security Of The Solana Ecosystem.
+
+💥**Solana Labs** (https://solanalabs.com)**:**
+
+Solana Labs Builds Products and Tools That Can Be Used On The Solana Blockchain.
+
+💥**Anza (**https://www.anza.xyz**):**
+
+Anza is the leading Solana-focused software development firm, building resilient, elegant, and impactful protocols.
+
+💥**Solana Ecosystem (**https://www.solanaecosystem.com**):**
+
+ Explore The Solana Ecosystem & Discover Powerful Tools And Integrations From Companies Around The World  
+
+
+🌎 **Solana Official / Relevant Links:**
+
+\- Website: [https://solana.com](https://solana.com)
+
+\- News: [https://solana.com/news](https://solana.com/news)
+
+\- Newsletter: [https://solana.com/newsletter](https://solana.com/newsletter)
+
+\- Whitepaper: [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf)
+
+\- X (Twitter): [https://twitter.com/solana](https://twitter.com/solana)
+
+\- Telegram: [https://t.me/solana](https://t.me/solana)
+
+\- Reddit: [https://www.reddit.com/r/solana](https://www.reddit.com/r/solana)
+
+\- LinkedIn: [https://www.reddit.com/r/solana](https://www.reddit.com/r/solana)
+
+
+
+💻 **TECHNICAL Relevant Links:**
+
+\- Docs: [https://docs.solana.com](https://docs.solana.com)
+
+\- Discord: [https://solana.com/discord](https://solana.com/discord)
+
+\- GitHub: [https://github.com/solana-labs](https://github.com/solana-labs)
+
+
+
+🔎 **Solana ""Third Party"" Explorers:**
+
+\- Solana Explorer: [https://explorer.solana.com](https://explorer.solana.com)
+
+\- SolScan: [https://solscan.io](https://solscan.io)
+
+\- SolanaFM: [https://solana.fm](https://solana.fm)
+
+\- HeliusLab: [https://xray.helius.dev](https://xray.helius.dev)
+
+
+
+💰 **Grants & Funding:**
+
+Learn More About Different Grant And Funding Opportunities Within The Solana Ecosystem
+
+\- Solana Foundation Grants: [https://solana.org/grants-funding](https://solana.org/grants-funding)
+
+\- SuperTeam Grants: [https://earn.superteam.fun/grants](https://earn.superteam.fun/grants)
+
+
+
+🛠️ **Developer Resources:**
+
+Check The Subreddit Menu / Side Bar For More Relevant Developer Resources.
+
+\- Top 10 Must-have Resources For Developers Diving Into The Solana Ecosystem | By AmalnathSathyan (X - Twitter)
+
+[https://new.reddit.com/r/solana/comments/1gxxyk8/top\_10\_musthave\_resources\_for\_developers\_diving](https://new.reddit.com/r/solana/comments/1gxxyk8/top_10_musthave_resources_for_developers_diving)  
+
+
+👨🏻‍🔧 You're A Developer & You Want To Hangout With Solana Developer Communities?
+
+You May Always Join The Below Communities (Unaffiliated With Solana Foundation or Solana Labs):
+
+\- The 76 DEVs: [https://discord.gg/7yryzdyFKx](https://discord.gg/7yryzdyFKx)
+
+\- Solana Community: [https://discord.gg/solana-community-926762104667648000](https://discord.gg/solana-community-926762104667648000)
+
+\- Solana Developer Community: [https://discord.gg/qcMZEgydXP](https://discord.gg/qcMZEgydXP)
+
+\- Lamport DAO: [https://discord.gg/FDKrxC5pxj](https://discord.gg/FDKrxC5pxj)
+
+
+
+👨‍👨‍👦‍👦 **Solana Collective:**
+
+Empowering Solana Content Creators
+
+\- Website: [https://www.solanacollective.com](https://www.solanacollective.com)
+
+\- Discord: [https://discord.gg/solanacollective](https://discord.gg/solanacollective)
+
+
+
+👨‍👨 **Solana SuperTeam:**
+
+Join The Talent Layer Of Solana Superteam, A Community Of The Best Talent Learning, Earning And Building In Crypto
+
+\- Website: [https://superteam.fun](https://superteam.fun)
+
+
+
+🏚️ **Solana Events:**
+
+Community hosted Solana events and regional summits for connecting with founders, partners, and builders in the ecosystem.
+
+**- Events:** [https://solana.com/events](https://solana.com/events)
+
+**- HackerHouses:** [https://x.com/hackerhouses](https://x.com/hackerhouses)
+
+
+
+🕵 **Solana Token Sniffer (❗️USE AT YOU OW RISK❗️):**
+
+Use The Below Tools To Read, Understand, Capitalize Blockchain On-chain Data And The Security Analysis Of Tokens And Detailed Wallet Insights
+
+\- [https://rugcheck.xyz](https://rugcheck.xyz)
+
+\- [https://solsniffer.com](https://solsniffer.com)
+
+\- [https://solintel.io](https://solintel.io)
+
+
+
+💬 **Weekly Discussion (Random Talk Goes Here ONLY👇)**
+
+[https://new.reddit.com/r/solana/comments/1go9qh5/weekly\_discussion\_thread](https://new.reddit.com/r/solana/comments/1go9qh5/weekly_discussion_thread)
+
+📖 **How to Avoid the Biggest Crypto Scams and Blunders, for Dummies :)**
+
+[https://www.reddit.com/r/solana/comments/18er2c8/how\_to\_avoid\_the\_biggest\_crypto\_scams\_and](https://www.reddit.com/r/solana/comments/18er2c8/how_to_avoid_the_biggest_crypto_scams_and)
+
+",ansi09,solana,7,0,7,0.89,1,1743230779.0,https://www.reddit.com/r/solana/comments/1jmghap/welcome_to_rsolana_read_this_to_get_started/,True,521,False,Please Read,True,False,False,True,,2025-03-29 06:46:19,9,low,8,neutral,9,"Solana, blockchain, crypto, technology","Relevance: 9
+Risk: low
+Reliability: 8
+Sentiment: neutral
+Credibility: 9
+Categories: Solana, blockchain, crypto, technology
+
+This post appears to be a well-structured and informative welcome message for the r/solana subreddit, providing an overview of the community and its guidelines. The content is relevant to the Solana ecosystem and blockchain technology, making it a good fit for this platform.
+
+The risk level is low because the post does not contain any suspicious links or obvious scams. The information provided seems to be accurate and comes from credible sources, such as the Solana website and reputable news outlets.
+
+The reliability score is 8 because while the post provides a wealth of information, some of it may be outdated or based on third-party sources. However, the overall tone and language suggest that the content is reliable and trustworthy.
+
+The sentiment of the post is neutral, as it aims to provide a general overview of Solana without taking a specific stance or promoting any particular agenda.
+
+The credibility score is 9 because the post comes from an official subreddit, Solana's website, and reputable news outlets. This suggests a high level of credibility and reliability in the information provided.
+
+The categories tags include Solana, blockchain, crypto, and technology, which accurately reflect the content of the post.",2025-03-30 10:23:03
+1jm69r2,Growing a Game/Coin Project Organically?,"Hey, been working on a crypto project that’s part game, part coin. No big budget, just trying to grow it organically.
+Worried it’ll get lost with so many projects launching daily.
+Anyone here grown something from scratch without bots or huge funds?
+Would love to hear what worked for you.
+
+#solana
+",gabogarita,solana,2,0,2,0.75,2,1743197584.0,https://www.reddit.com/r/solana/comments/1jm69r2/growing_a_gamecoin_project_organically/,True,51,False,NFT/Gaming,False,False,False,False,,2025-03-28 21:33:04,9,Low,7,Positive,6,"Solana development, cryptocurrency projects, entrepreneurial experiences","Evaluation:
+
+Relevance: 9
+The post discusses a crypto project, specifically one related to Solana. This makes it relevant to the platform/community.
+
+Risk: Low
+There is no obvious scam, misinformation, or hate speech in this post. It appears to be a genuine question from someone looking for advice on growing their crypto project.
+
+Reliability: 7
+While the post is from someone who claims to have a working crypto project, there's no concrete evidence provided (e.g., citations or links) to verify the information. The post relies on personal experience, which may be anecdotal.
+
+Sentiment: Positive
+The overall sentiment is positive as the person is seeking advice and sharing their genuine interest in growing a crypto project.
+
+Credibility: 6
+The person behind the post is claiming to have grown a crypto project from scratch, but there's no clear evidence of their authority or expertise in the field. They are asking for advice, which suggests they may be open to constructive feedback.
+
+Categories: Solana development, cryptocurrency projects, entrepreneurial experiences",2025-03-30 10:23:13
+1jlu0a3,Looking for an experienced SPL developer for a question about an error I am getting with my program on the devnet.,"Will compensate for your time if you help me resolve this!
+
+Trying to make this with a few adjustments [https://solana.com/uk/developers/guides/token-extensions/transfer-hook#transfer-hook-with-wsol-transfer-fee-advanced-example](https://solana.com/uk/developers/guides/token-extensions/transfer-hook#transfer-hook-with-wsol-transfer-fee-advanced-example)
+
+It almost works on the devnet. I can send the token from the mint authority wallet to my second wallet. But sending back gives the following error:
+
+Error: Client(Error { request: Some(SendTransaction), kind: RpcError(RpcResponseError { code: -32002, message: ""Transaction simulation failed: Error processing Instruction 0: custom program error: 0x4"", data: SendTransactionPreflightFailure(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(4))), logs: Some(\[""Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb invoke \[1\]"", ""Program log: Instruction: TransferChecked"", ""Program CYaUNQ1wfbfamCJatWbNfh8fbXKYcCYXsHDa1LCad4jY invoke \[2\]"", ""Program log: Instruction: TransferHook"", ""Program log: Transfer WSOL using delegate PDA"", ""Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke \[3\]"", ""Program log: Instruction: TransferChecked"", ""Program log: Error: owner does not match"", ""Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 5975 of 5975 compute units"", ""Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA failed: custom program error: 0x4"", ""Program CYaUNQ1wfbfamCJatWbNfh8fbXKYcCYXsHDa1LCad4jY consumed 34535 of 34535 compute units"", ""Program CYaUNQ1wfbfamCJatWbNfh8fbXKYcCYXsHDa1LCad4jY failed: custom program error: 0x4"", ""Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb consumed 69155 of 69155 compute units"", ""Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb failed: custom program error: 0x4""\]), accounts: None, units\_consumed: Some(69155), return\_data: None, inner\_instructions: None, replacement\_blockhash: None }) }) })
+
+One person I spoke with is saying that it's a devnet issue and it should work fine on the mainnet but I'm not looking to spend a bunch of SOL on rent just to have the same thing happen so I was hoping to get a confirmation here before I do anything else.",sorry_im_stupid_,solana,5,0,5,0.85,3,1743165256.0,https://www.reddit.com/r/solana/comments/1jlu0a3/looking_for_an_experienced_spl_developer_for_a/,True,225,False,Dev/Tech,False,False,False,False,,2025-03-28 12:34:16,9,low,6,negative,7,"Solana, technical issues, token transfers","Relevance: 9
+Risk: low
+Reliability: 6
+Sentiment: negative
+Credibility: 7
+Categories: Solana, technical issues, token transfers
+
+Evaluation:
+
+1. Relevance score (1-10): This post is highly relevant to our platform/community as it discusses a technical issue with Solana token transfers, which is a critical aspect of the platform. The post's discussion on the error message and the potential reasons for it will likely be of interest to our users.
+
+2. Risk level (low/medium/high): The post does not contain any suspicious or misleading content that could be considered risky. However, the issue described may be a sign of an underlying problem with the Solana network or the developer's code, which could potentially lead to financial losses if not addressed properly.
+
+3. Reliability score (1-10): The post appears to be from a legitimate source, as it includes links to official Solana documentation and references a specific error message. However, the reliability of the information is difficult to assess without more context about the developer's experience and expertise with Solana. While the post is written in a clear and concise manner, it does not provide any supporting evidence or citations to verify the accuracy of the information.
+
+4. Sentiment: The overall sentiment of the post is negative, as it expresses frustration and disappointment with the error message encountered.
+
+5. Credibility: The credibility of the source is moderate, as there is no information provided about the developer's identity or expertise. However, the use of official Solana documentation links and references to a specific error message suggests that the developer is attempting to provide an accurate account of their experience.
+
+6. Category tags: The post belongs to the categories of Solana, technical issues, and token transfers.
+
+Overall, this post is relevant to our platform/community and provides a clear account of the technical issue encountered. However, the reliability of the information is difficult to assess without more context or supporting evidence.",2025-03-30 10:23:31
+1jmjgvs,WARNING: Airdrops I Earned Went to Binance’s Vault Instead of My Wallet — Be Careful How You Fund Your Solana Wallet,"Just discovered something seriously messed up — I made a purchase through my Solflare wallet, using USDT, expecting to receive airdrops for the Seeker mobile. 
+
+Turns out, instead of sending the rewards to the wallet that actually made the purchase (mine), the Solana platform decided to trace the origin of the funds — and sent the airdrops to my Binance deposit address, just because that’s where I originally funded my wallet from.
+
+So now the airdrops are sitting in Binance’s inaccessible vault, and I have no way of getting them back. Binance doesn’t show them. I can’t move them. And the wallet that actually made the transaction got nothing.
+
+TL;DR:
+	•	Don’t fund your wallet right before a drop using Binance or another exchange.
+	•	Solana platforms may trace the origin of the SOL and misdirect rewards.
+	•	You could miss out entirely — even if you were the one who interacted with the app and spent the money.",Existing_Existed,solana,12,0,12,0.77,29,1743244531.0,https://www.reddit.com/r/solana/comments/1jmjgvs/warning_airdrops_i_earned_went_to_binances_vault/,True,159,False,SolanaMobile,False,False,False,False,,2025-03-29 10:35:31,5,medium,5,neutral,5,uncategorized,"**Relevance:** 9
+The post is directly related to the Solana platform, discussing a specific issue with airdrops and wallet transactions. The content is relevant to our community as it discusses potential problems with Solana-related transactions.
+
+**Risk:** Medium
+While the post does not contain any overtly scammy or malicious content, it does raise concerns about potential issues with Solana's tracing and airdrop distribution. The author presents their experience as a personal anecdote, which may help prevent others from experiencing similar issues.
+
+**Reliability:** 8
+The post is based on the author's personal experience, which may be reliable but not verified. The lack of specific details or external evidence (e.g., screenshots, timestamps) makes it harder to confirm the accuracy of the claim. However, the author does provide a clear explanation and possible solutions, demonstrating some level of expertise.
+
+**Sentiment:** Negative
+The overall sentiment is negative due to the author's frustration with the Solana platform and their experience with the airdrop misallocation.
+
+**Credibility:** 7
+The author appears to be familiar with the topic and presents their experience in a clear manner. However, without further verification or external evidence, it's difficult to assess the author's credibility on this specific issue.
+
+**Categories:** Solana (blockchain), cryptocurrency, finance, airdrops, wallet security, exchange issues
+
+Note: The post's content is primarily educational and warning-oriented, aiming to inform the community about potential issues with Solana-related transactions rather than being promotional or biased.",2025-03-30 10:23:44
+1jmghap,Welcome to /r/Solana - Read This To Get Started,"# "" Hello World ""
+
+# Welcome To r/solana - Please Read This To Get Started
+
+
+
+❗️ **Disclaimer** ❗️
+
+\- This subreddit is used for informational purposes only.
+
+\- Applicable laws vary by jurisdiction and may limit or prohibit you from accessing or using various platforms or products discussed in this subreddit.
+
+\- Discussion of any project or product ≠ endorsement.
+
+
+
+⚠️ **Solana Subreddit RULES** ⚠️
+
+The Solana Subreddit Does Not Tolerate🪓The Below Mentioned Behavior:
+
+\- Spam
+
+\- Baseless Claims
+
+\- Misleading Distortion Of Facts Or News
+
+\- Duplicate Posting
+
+\- Targeted Harassment
+
+\- Personal Attacks
+
+\- Swearing
+
+\- Slander
+
+
+
+💡 **What Is Solana?**
+
+Solana is a fast, secure and censorship-resistant blockchain providing the open infrastructure required for global adoption.
+
+Say goodbye to high fees and slow confirmations.
+
+Solana is built for speed, without trade-offs.
+
+
+
+🤓☝️**The Basics On All Things Solana And Web3:**
+
+[https://solana.com/learn/blockchain-basics](https://solana.com/learn/blockchain-basics)
+
+🤔**How Solana Works - An Executive Overview Of The Solana Protocol:**
+
+[https://www.helius.dev/blog/solana-executive-overview](https://www.helius.dev/blog/solana-executive-overview)
+
+
+
+💥 **Solana Foundation:**
+
+The Solana Foundation Is A Non-profit Foundation Based In Zug, Switzerland, Dedicated To The Decentralization, Adoption, And Security Of The Solana Ecosystem.
+
+💥**Solana Labs** (https://solanalabs.com)**:**
+
+Solana Labs Builds Products and Tools That Can Be Used On The Solana Blockchain.
+
+💥**Anza (**https://www.anza.xyz**):**
+
+Anza is the leading Solana-focused software development firm, building resilient, elegant, and impactful protocols.
+
+💥**Solana Ecosystem (**https://www.solanaecosystem.com**):**
+
+ Explore The Solana Ecosystem & Discover Powerful Tools And Integrations From Companies Around The World  
+
+
+🌎 **Solana Official / Relevant Links:**
+
+\- Website: [https://solana.com](https://solana.com)
+
+\- News: [https://solana.com/news](https://solana.com/news)
+
+\- Newsletter: [https://solana.com/newsletter](https://solana.com/newsletter)
+
+\- Whitepaper: [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf)
+
+\- X (Twitter): [https://twitter.com/solana](https://twitter.com/solana)
+
+\- Telegram: [https://t.me/solana](https://t.me/solana)
+
+\- Reddit: [https://www.reddit.com/r/solana](https://www.reddit.com/r/solana)
+
+\- LinkedIn: [https://www.reddit.com/r/solana](https://www.reddit.com/r/solana)
+
+
+
+💻 **TECHNICAL Relevant Links:**
+
+\- Docs: [https://docs.solana.com](https://docs.solana.com)
+
+\- Discord: [https://solana.com/discord](https://solana.com/discord)
+
+\- GitHub: [https://github.com/solana-labs](https://github.com/solana-labs)
+
+
+
+🔎 **Solana ""Third Party"" Explorers:**
+
+\- Solana Explorer: [https://explorer.solana.com](https://explorer.solana.com)
+
+\- SolScan: [https://solscan.io](https://solscan.io)
+
+\- SolanaFM: [https://solana.fm](https://solana.fm)
+
+\- HeliusLab: [https://xray.helius.dev](https://xray.helius.dev)
+
+
+
+💰 **Grants & Funding:**
+
+Learn More About Different Grant And Funding Opportunities Within The Solana Ecosystem
+
+\- Solana Foundation Grants: [https://solana.org/grants-funding](https://solana.org/grants-funding)
+
+\- SuperTeam Grants: [https://earn.superteam.fun/grants](https://earn.superteam.fun/grants)
+
+
+
+🛠️ **Developer Resources:**
+
+Check The Subreddit Menu / Side Bar For More Relevant Developer Resources.
+
+\- Top 10 Must-have Resources For Developers Diving Into The Solana Ecosystem | By AmalnathSathyan (X - Twitter)
+
+[https://new.reddit.com/r/solana/comments/1gxxyk8/top\_10\_musthave\_resources\_for\_developers\_diving](https://new.reddit.com/r/solana/comments/1gxxyk8/top_10_musthave_resources_for_developers_diving)  
+
+
+👨🏻‍🔧 You're A Developer & You Want To Hangout With Solana Developer Communities?
+
+You May Always Join The Below Communities (Unaffiliated With Solana Foundation or Solana Labs):
+
+\- The 76 DEVs: [https://discord.gg/7yryzdyFKx](https://discord.gg/7yryzdyFKx)
+
+\- Solana Community: [https://discord.gg/solana-community-926762104667648000](https://discord.gg/solana-community-926762104667648000)
+
+\- Solana Developer Community: [https://discord.gg/qcMZEgydXP](https://discord.gg/qcMZEgydXP)
+
+\- Lamport DAO: [https://discord.gg/FDKrxC5pxj](https://discord.gg/FDKrxC5pxj)
+
+
+
+👨‍👨‍👦‍👦 **Solana Collective:**
+
+Empowering Solana Content Creators
+
+\- Website: [https://www.solanacollective.com](https://www.solanacollective.com)
+
+\- Discord: [https://discord.gg/solanacollective](https://discord.gg/solanacollective)
+
+
+
+👨‍👨 **Solana SuperTeam:**
+
+Join The Talent Layer Of Solana Superteam, A Community Of The Best Talent Learning, Earning And Building In Crypto
+
+\- Website: [https://superteam.fun](https://superteam.fun)
+
+
+
+🏚️ **Solana Events:**
+
+Community hosted Solana events and regional summits for connecting with founders, partners, and builders in the ecosystem.
+
+**- Events:** [https://solana.com/events](https://solana.com/events)
+
+**- HackerHouses:** [https://x.com/hackerhouses](https://x.com/hackerhouses)
+
+
+
+🕵 **Solana Token Sniffer (❗️USE AT YOU OW RISK❗️):**
+
+Use The Below Tools To Read, Understand, Capitalize Blockchain On-chain Data And The Security Analysis Of Tokens And Detailed Wallet Insights
+
+\- [https://rugcheck.xyz](https://rugcheck.xyz)
+
+\- [https://solsniffer.com](https://solsniffer.com)
+
+\- [https://solintel.io](https://solintel.io)
+
+
+
+💬 **Weekly Discussion (Random Talk Goes Here ONLY👇)**
+
+[https://new.reddit.com/r/solana/comments/1go9qh5/weekly\_discussion\_thread](https://new.reddit.com/r/solana/comments/1go9qh5/weekly_discussion_thread)
+
+📖 **How to Avoid the Biggest Crypto Scams and Blunders, for Dummies :)**
+
+[https://www.reddit.com/r/solana/comments/18er2c8/how\_to\_avoid\_the\_biggest\_crypto\_scams\_and](https://www.reddit.com/r/solana/comments/18er2c8/how_to_avoid_the_biggest_crypto_scams_and)
+
+",ansi09,solana,7,0,7,0.89,1,1743230779.0,https://www.reddit.com/r/solana/comments/1jmghap/welcome_to_rsolana_read_this_to_get_started/,True,521,False,Please Read,True,False,False,True,,2025-03-29 06:46:19,5,medium,5,neutral,5,uncategorized,Error in evaluation,
+1jm69r2,Growing a Game/Coin Project Organically?,"Hey, been working on a crypto project that’s part game, part coin. No big budget, just trying to grow it organically.
+Worried it’ll get lost with so many projects launching daily.
+Anyone here grown something from scratch without bots or huge funds?
+Would love to hear what worked for you.
+
+#solana
+",gabogarita,solana,2,0,2,0.75,2,1743197584.0,https://www.reddit.com/r/solana/comments/1jm69r2/growing_a_gamecoin_project_organically/,True,51,False,NFT/Gaming,False,False,False,False,,2025-03-28 21:33:04,6,Low,4,Positive,7,"community growth, cryptocurrency, Solana development","Evaluation:
+
+Relevance: 6
+The post is related to Solana, as indicated by the #Solana tag. However, it's not specifically about Solana development, programming, or technical discussions, which are more relevant to our platform.
+
+Risk: Low
+There's no indication of scams, misinformation, or hate speech in the post. The content is straightforward and focused on organic growth and community success.
+
+Reliability: 4
+The post doesn't provide specific details about the crypto project or its performance, making it somewhat difficult to verify the reliability of the information. However, the tone and language seem genuine and encouraging.
+
+Sentiment: Positive
+The overall sentiment is positive, as the author expresses concern about their project's visibility but hopes to receive advice and support from others.
+
+Credibility: 7
+The author's credibility is high due to their willingness to share their personal experience and seek feedback from others. They also demonstrate a level of self-awareness by acknowledging the challenge of growing their project organically.
+
+Categories: community growth, cryptocurrency, Solana development",2025-03-30 10:24:14
+1jlu0a3,Looking for an experienced SPL developer for a question about an error I am getting with my program on the devnet.,"Will compensate for your time if you help me resolve this!
+
+Trying to make this with a few adjustments [https://solana.com/uk/developers/guides/token-extensions/transfer-hook#transfer-hook-with-wsol-transfer-fee-advanced-example](https://solana.com/uk/developers/guides/token-extensions/transfer-hook#transfer-hook-with-wsol-transfer-fee-advanced-example)
+
+It almost works on the devnet. I can send the token from the mint authority wallet to my second wallet. But sending back gives the following error:
+
+Error: Client(Error { request: Some(SendTransaction), kind: RpcError(RpcResponseError { code: -32002, message: ""Transaction simulation failed: Error processing Instruction 0: custom program error: 0x4"", data: SendTransactionPreflightFailure(RpcSimulateTransactionResult { err: Some(InstructionError(0, Custom(4))), logs: Some(\[""Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb invoke \[1\]"", ""Program log: Instruction: TransferChecked"", ""Program CYaUNQ1wfbfamCJatWbNfh8fbXKYcCYXsHDa1LCad4jY invoke \[2\]"", ""Program log: Instruction: TransferHook"", ""Program log: Transfer WSOL using delegate PDA"", ""Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke \[3\]"", ""Program log: Instruction: TransferChecked"", ""Program log: Error: owner does not match"", ""Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 5975 of 5975 compute units"", ""Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA failed: custom program error: 0x4"", ""Program CYaUNQ1wfbfamCJatWbNfh8fbXKYcCYXsHDa1LCad4jY consumed 34535 of 34535 compute units"", ""Program CYaUNQ1wfbfamCJatWbNfh8fbXKYcCYXsHDa1LCad4jY failed: custom program error: 0x4"", ""Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb consumed 69155 of 69155 compute units"", ""Program TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb failed: custom program error: 0x4""\]), accounts: None, units\_consumed: Some(69155), return\_data: None, inner\_instructions: None, replacement\_blockhash: None }) }) })
+
+One person I spoke with is saying that it's a devnet issue and it should work fine on the mainnet but I'm not looking to spend a bunch of SOL on rent just to have the same thing happen so I was hoping to get a confirmation here before I do anything else.",sorry_im_stupid_,solana,4,0,4,0.83,3,1743165256.0,https://www.reddit.com/r/solana/comments/1jlu0a3/looking_for_an_experienced_spl_developer_for_a/,True,225,False,Dev/Tech,False,False,False,False,,2025-03-28 12:34:16,8,Low,6,Neutral,4,"Solana development, programming, blockchain, DevNet, mainnet","Evaluation:
+
+Relevance: 8
+The post is directly related to Solana, specifically discussing a technical issue with the transfer hook. The discussion of the DevNet and mainnet differences adds relevance to the platform/community interested in Solana development.
+
+Risk: Low
+The post does not contain any obvious scams, misinformation, or hate speech. The tone is neutral and seeking advice, which reduces the risk level.
+
+Reliability: 6
+The post presents a technical issue with the transfer hook, but it does not provide concrete evidence or verification from a reputable source. The fact that one person is saying it's a DevNet issue and not a mainnet problem adds some skepticism, which reduces the reliability score.
+
+Sentiment: Neutral
+The post expresses frustration and seeks confirmation before proceeding, but it does not exhibit any strong emotions, such as excitement or urgency. The overall sentiment is neutral.
+
+Credibility: 4
+The post appears to be from a user who has attempted to resolve the issue and is seeking advice. While this increases credibility, it's not a verified source, and the user may have personal biases or interests. Additionally, the post doesn't provide any credible sources to support the claims made.
+
+Categories: Solana development, programming, blockchain, DevNet, mainnet",2025-03-30 10:24:27
+1jlqsdm,USDT (SOL) vs USDT (SPL) are same ?,"
+Hi Im a beginner and trying to withdraw USDT from an NFT platform, which asks for a Solana (SOL) address. However, in Trust Wallet, I only see USDT (SPL) with a warning: ""Only send USDT (SPL) to this address.""
+
+Is USDT (SOL) the same as USDT (SPL) on Solana? Can I safely use my USDT (SPL) address from Trust Wallet for the withdrawal?
+
+If not, are there any self-custodial wallets that accept USDT (SOL) instead of SPL? Or should I withdraw to an exchange first? Appreciate any help!
+
+",areyoua1or0,solana,4,0,4,0.75,10,1743152557.0,https://www.reddit.com/r/solana/comments/1jlqsdm/usdt_sol_vs_usdt_spl_are_same/,True,88,False,Wallet/Exchange,False,False,False,False,,2025-03-28 09:02:37,8,low,6,neutral,7,"Solana, NFT, Trust Wallet, USDT","Relevance: 8
+Risk: low
+Reliability: 6
+Sentiment: neutral
+Credibility: 7
+Categories: Solana, NFT, Trust Wallet, USDT
+
+Evaluation:
+
+1. Relevance score (8/10): The post is relevant to our platform/community as it discusses Solana, NFT, and Trust Wallet, which are all connected to the cryptocurrency ecosystem.
+
+2. Risk level (low/medium/high): The post does not contain any high-risk content such as scams, misinformation, or hate speech. However, it is a self-custodial wallet issue that may raise some concerns about security and compatibility. The risk level is low.
+
+3. Reliability score (6/10): While the post seems to have some valid information, it is not based on a verified source or citations. The user may be trying to troubleshoot the issue themselves, but there's no concrete evidence or expert opinion provided.
+
+4. Sentiment (positive/neutral/negative): The post's sentiment is neutral, as it conveys a clear question and inquiry about the compatibility of USDT (SPL) and USDT (SOL) addresses.
+
+5. Credibility (7/10): The source of the post is an individual user, which may raise some suspicions about credibility. However, it's also possible that the user is trying to help others by sharing their experience and possibly seeking advice.
+
+6. Category tags (comma-separated): Solana, NFT, Trust Wallet, USDT
+
+The post belongs to the following categories:
+
+- Solana
+- NFT (Non-Fungible Tokens)
+- Trust Wallet (a cryptocurrency wallet app)
+- USDT (USDT, the stablecoin, is mentioned with its SOL and SPL versions)",2025-03-30 10:24:42

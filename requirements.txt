@@ -1,0 +1,6 @@
+dotenv
+lmstudio
+pandas
+praw
+selenium
+webdriver_manager
