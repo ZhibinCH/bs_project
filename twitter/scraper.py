@@ -16,13 +16,14 @@ def scroll_to_load_tweets(driver, max_attempts):
     for attempt in range(max_attempts):
         # Scroll to the bottom of the page
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
+        # window.scrollTo(x, y): x= horizontal position, y=vertical position
         time.sleep(random.uniform(3.0, 5.0))  # Random delay to mimic human behavior
 
         # Check if new content loaded
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
             print(f"No new content after attempt {attempt + 1}. Stopping scroll.")
-            break
+            break # Stop scrolling if no new content appears
         last_height = new_height
 
 def scrape_tweets(driver, max_tweets):
@@ -43,6 +44,7 @@ def scrape_tweets(driver, max_tweets):
                 "content": tweet.find_element(By.XPATH, './/div[@data-testid="tweetText"]').text,
                 "timestamp": tweet.find_element(By.XPATH, './/time').get_attribute('datetime'),
                 "link": tweet.find_element(By.XPATH, './/time/..').get_attribute('href'),
+                # TODO as extended feature we do add the engagement metrics:
                 # **extract_engagement(tweet),  # Include replies/reposts/likes/views
             })
         except Exception as e:

@@ -32,6 +32,7 @@ def handle_verification(driver, username):
 
         # Find the verification input field and submit username
         verification_field = driver.find_element(By.XPATH, "//input[@name='text']")
+        # find an <input> tag where the name attribute is equal to 'text', // means anywhere in the Document
         verification_field.send_keys(username.split("@")[0] + Keys.RETURN)  # Send username without @
         time.sleep(3)  # Wait for submission to process
         return True
@@ -52,7 +53,7 @@ def login(driver, email, password, username):
     email_field = WebDriverWait(driver, 15).until(
         EC.element_to_be_clickable((By.XPATH, "//input[@name='text']"))
     )
-    email_field.send_keys(email + Keys.RETURN)
+    email_field.send_keys(email + Keys.RETURN) # Enter the email, simulate pressing the Enter key to proceed
     time.sleep(3)  # Wait for next screen to load
 
     # Step 3: Handle verification (if triggered)
