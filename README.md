@@ -78,6 +78,7 @@ The project generates CSV files containing:
 ## Folder Structure
 ```
 bs_project/
+│-- config.py 
 │-- evaluator.py 
 │-- outputs/
 │   ├── evaluated_reddit_20250330.csv
